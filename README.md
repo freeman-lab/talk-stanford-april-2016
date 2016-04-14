@@ -1,4 +1,4 @@
-# talk-stanford-april-2016
+# talk
 
 > talk at stanford in april 2016
 
